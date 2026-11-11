@@ -30,6 +30,10 @@
     {
       "source": "/sg/ip-transit-singapore/",
       "destination": "/ip-transit-singapore.html"
+    },
+    {
+      "source": "/sg/dedicated-internet-access-singapore/",
+      "destination": "/dedicated-internet-access-singapore.html"
     }
   ]
 }

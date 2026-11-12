@@ -10,13 +10,15 @@ Static homepage, corrected IP transit page and optimized Dedicated Internet Acce
 5. Decide who should have access using Vercel's deployment protection settings. A private GitHub repository does not by itself make its deployed website private.
 
 ## Behaviour
-- The three draft pages link to one another on the preview host.
+- The four draft pages link to one another on the preview host.
 - Other service and resource links go to the existing axclusive.com website.
 - Homepage enquiries link to the existing contact page. The IP transit and DIA forms prepare a WhatsApp message for the visitor to review and send.
 - There is no CRM, form-storage or email backend in this project.
 - Search indexing is disabled in HTML, response headers and robots.txt. This is not an access control.
 - No ChatGPT sign-in integration or Sites credentials are included.
-- Do not attach the main axclusive.com domain to this three-page preview. It is not a migration of the complete existing website.
+- Do not attach the main axclusive.com domain to this four-page preview. It is not a migration of the complete existing website.
 - Before a production release, integrate with the complete site, verify forms/analytics and remove staging indexing restrictions while retaining correct canonical URLs.
 
 Sources: https://vercel.com/docs/git/vercel-for-github and https://vercel.com/docs/builds/configure-a-build
+
+Leased line preview: /sg/leased-line-singapore/. Includes private connectivity, optional encryption and optional managed service.

@@ -34,6 +34,10 @@
     {
       "source": "/sg/dedicated-internet-access-singapore/",
       "destination": "/dedicated-internet-access-singapore.html"
+    },
+    {
+      "source": "/sg/leased-line-singapore/",
+      "destination": "/leased-line-singapore.html"
     }
   ]
 }

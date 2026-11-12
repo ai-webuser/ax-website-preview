@@ -38,6 +38,10 @@
     {
       "source": "/sg/leased-line-singapore/",
       "destination": "/leased-line-singapore.html"
+    },
+    {
+      "source": "/sg/network-coverage-singapore/",
+      "destination": "/network-coverage-singapore.html"
     }
   ]
 }

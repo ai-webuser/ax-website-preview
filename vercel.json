@@ -70,6 +70,22 @@
     {
       "source": "/sg/webex-calling/",
       "destination": "/webex-calling.html"
+    },
+    {
+      "source": "/sg/ddos-protection/",
+      "destination": "/ddos-protection.html"
+    },
+    {
+      "source": "/sg/data-center-interconnect-singapore/",
+      "destination": "/data-center-interconnect-singapore.html"
+    },
+    {
+      "source": "/sg/managed-services-singapore/",
+      "destination": "/managed-services-singapore.html"
+    },
+    {
+      "source": "/sg/managed-sd-wan-singapore/",
+      "destination": "/managed-sd-wan-singapore.html"
     }
   ]
 }

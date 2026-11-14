@@ -50,6 +50,10 @@
     {
       "source": "/sg/multiple-services-connectivity-singapore/",
       "destination": "/multiple-services-connectivity-singapore.html"
+    },
+    {
+      "source": "/sg/cisco-duo-singapore/",
+      "destination": "/cisco-duo-singapore.html"
     }
   ]
 }

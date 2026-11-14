@@ -54,6 +54,22 @@
     {
       "source": "/sg/cisco-duo-singapore/",
       "destination": "/cisco-duo-singapore.html"
+    },
+    {
+      "source": "/sg/sip-trunking/",
+      "destination": "/sip-trunking.html"
+    },
+    {
+      "source": "/sg/managed-cloud-pbx-singapore/",
+      "destination": "/managed-cloud-pbx-singapore.html"
+    },
+    {
+      "source": "/sg/teams-calling/",
+      "destination": "/teams-calling.html"
+    },
+    {
+      "source": "/sg/webex-calling/",
+      "destination": "/webex-calling.html"
     }
   ]
 }

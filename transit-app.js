@@ -7,9 +7,9 @@ menu.addEventListener('click', () => {
   nav.classList.toggle('open', open);
 });
 nav.querySelectorAll('a').forEach(a => a.addEventListener('click', () => {
-  nav.classList.remove('open'); menu.setAttribute('aria-expanded','false'); menu.setAttribute('aria-label','Open navigation');
+  document.querySelectorAll('.nav-dropdown').forEach(d=>d.open=false); nav.classList.remove('open'); menu.setAttribute('aria-expanded','false'); menu.setAttribute('aria-label','Open navigation');
 }));
-document.addEventListener('keydown',e=>{if(e.key==='Escape'){nav.classList.remove('open');menu.setAttribute('aria-expanded','false');menu.setAttribute('aria-label','Open navigation');document.querySelector('.nav-dropdown').open=false;}});
+document.addEventListener('keydown',e=>{if(e.key==='Escape'){nav.classList.remove('open');menu.setAttribute('aria-expanded','false');menu.setAttribute('aria-label','Open navigation');document.querySelectorAll('.nav-dropdown').forEach(d=>d.open=false);}});
 const form=document.querySelector('#quote-form');
 const status=document.querySelector('#form-status');
 function enquiry(){

@@ -42,6 +42,14 @@
     {
       "source": "/sg/network-coverage-singapore/",
       "destination": "/network-coverage-singapore.html"
+    },
+    {
+      "source": "/sg/cisco-network-solutions/",
+      "destination": "/cisco-network-solutions.html"
+    },
+    {
+      "source": "/sg/multiple-services-connectivity-singapore/",
+      "destination": "/multiple-services-connectivity-singapore.html"
     }
   ]
 }
